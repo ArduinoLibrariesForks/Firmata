@@ -1,0 +1,28 @@
+{
+    "name": "Firmata",
+    "provides": "Firmata.h",
+    "description": "Enables the communication with computer apps using a standard serial protocol. For all Arduino/Genuino boards.",
+    "version": "2.5.6",
+    "maintainer": "Arduino LLC <info@arduino.cc>",
+    "category": "Communications",
+    "subcategory": "Serial",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "Boards.h": "/",
+        "Firmata.cpp": "/",
+        "Firmata.h": "/",
+        "FirmataConstants.h": "/",
+        "FirmataDefines.h": "/",
+        "FirmataMarshaller.cpp": "/",
+        "FirmataMarshaller.h": "/",
+        "FirmataParser.cpp": "/",
+        "FirmataParser.h": "/",
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "utility": "/"
+    },
+    "license": "LICENSE.txt",
+    "readme": "readme.md"
+}
